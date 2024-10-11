@@ -1,5 +1,6 @@
 import './App.css';
 
+
 const schedule = {
   title: "CS Courses for 2024-2025"
 };
